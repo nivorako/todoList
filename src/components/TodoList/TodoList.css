@@ -1,3 +1,8 @@
 .todoList{
     text-align: center;
+    width: 50%;
+    margin: 10% auto;
+    padding: 2rem;
+    background-color: azure;
+    border-radius: 5px;
 }
